@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# temp_project
+# flutter_application_3
 
 A new Flutter project.
 
@@ -15,6 +14,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
-"# Mobile Application and Development Labs" 
->>>>>>> 25460e5aa64b486c7cd92ff8262352e6a92dbf50
